@@ -4,3 +4,4 @@ a = "useless"
 c = a+b
 
 print(a)
+print(b)
